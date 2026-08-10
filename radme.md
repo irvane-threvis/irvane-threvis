@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header.svg" width="100%" alt="Blueprint Title Block">
+<img src="head.svg" width="100%" alt="Blueprint Title Block">
 </div>
 
 
