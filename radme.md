@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header.svg" width="100%" alt="Blueprint Title Block">
+<img src="head.svg" width="100%" alt="Blueprint Title Block">
 </div>
 
 
@@ -90,7 +90,7 @@ status:    "Stepping up. Shipping serious stuff."
 
 ## Beyond the code
 
-Bible reader · FIFA legend · Rap lyricist · Sound engineer  
+Bible reader · Basketball player · Rap lyricist · taekwondo practicer  
 *Faith, bars, and frequencies — the other stack.*
 
 ---
